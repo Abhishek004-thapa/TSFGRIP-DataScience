@@ -7,7 +7,11 @@
 ## `Abstract :` 
 
 This project is based on multiclass classification problems which is accomplished using following
-one of the machine learning algorithm i.e Decision Tree Algorithm. The purpose of using Decision Tree Classifier is if we feed any new data to this classifer, it would be able to predict the right class accordingly.
+one of the machine learning algorithm i.e Decision Tree Algorithm. 
+
+The purpose of using Decision Tree Classifier is if we feed any new data to this classifer, it would be able to predict the right class accordingly.
+
+In this project, data encoding, EDA & Visualization, Model Fitting, Visulization of Decision Tree Classifier, Predictions on Unseen Data, Model Evaluation and Saving & Loading of Model are Carried out.
 
 3 classes of Iris flowers family:
 
