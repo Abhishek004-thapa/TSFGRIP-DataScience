@@ -1,6 +1,6 @@
 # `Prediction Using Decision Tree Algorithm`
 
-## `Dataset from :` https://drive.google.com/file/d/11Iq7YvbWZbt8VXjfm06brx66b10YiwK-/view
+## `Dataset :` https://drive.google.com/file/d/11Iq7YvbWZbt8VXjfm06brx66b10YiwK-/view
  
  ### Files Used: `IRIS.csv`
 
