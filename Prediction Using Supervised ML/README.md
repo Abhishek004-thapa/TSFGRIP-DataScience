@@ -10,6 +10,8 @@ for this project is also very small and simple.
 Main aim of this project is to make prediction using Supervised ML algorithms such as `LinearRegression` and `RandomForestRegressor` 
 for regression based problems as well as provide knowledge about the method of making predictions for unseen data.
 
+`Supervised ML` is defined by its use of labeled datasets(for each input, their corresponding output is given) to train algorithms that to classify data or predict outcomes accurately
+
 ## `STEPS: `
 
   1) Importing required important libraries.
