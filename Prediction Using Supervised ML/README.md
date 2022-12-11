@@ -8,7 +8,7 @@ This project is for the beginner level ML enthusiast just for making them famili
 for this project is also very small and simple. 
 
 Main aim of this project is to make prediction using Supervised ML algorithms such as `LinearRegression` and `RandomForestRegressor` 
-for regression based problems.
+for regression based problems as well as provide knowledge about the method of making predictions for unseen data.
 
 ## `STEPS: `
 
